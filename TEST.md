@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/oSoc20/bit-of-trust/master/img/banner.png)
+![Banner](https://raw.githubusercontent.com/Wise-Badges/documentation/blob/master/data/banner.png)
 
 # **Bridges - WiseBadges**
 
