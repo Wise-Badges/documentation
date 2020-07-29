@@ -1,3 +1,8 @@
+# **Bridges - WiseBadges**
+
+## At open summer of code
+ 6 — 30 July 2020
+
 # INTRODUCTION
 
 WiseBadges is the result of great teamwork during osoc20, fits perfectly within the vision of Bridges and made possible by the funding of the Erasmus + programme. It makes giving and receiving recognition for women in STEM careers and education easier and less time-intensive.
