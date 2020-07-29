@@ -23,10 +23,7 @@ The audience we focus our communication towards and trigger to send WiseBadges:
  (Female) STEM professionals
  (Female) STEM communities
 
-## Personas
-
-
-## Customer journeys
+## Personas - Customer journeys
 
 
 View our [Miro board](https://miro.com/app/board/o9J_kp9ukoo=/) for the personas and customer journeys
