@@ -72,6 +72,7 @@ Link to the steps of the creation process in [Figma](https://www.figma.com/file/
 The front-end of the app allows the user to send special badges to others on Twitter and is built with Vue.js. The recipient can choose to accept or deny the badges they have received. To build a sense of community, there is an overview of people who have received badges on the website.
 
 [https://wisebadges.osoc.be/](https://wisebadges.osoc.be/)
+
 [Github &amp; documentation](https://github.com/Wise-Badges/frontend)
 
 ## TWITTER BOT
@@ -79,6 +80,7 @@ The front-end of the app allows the user to send special badges to others on Twi
 Twitter Bot is built to communicate with the users of WiseBadges through Twitter. From the front-end, the user is sent to Twitter to issue a badge just by posting a tweet. The Twitter Bot will see this tweet, and notify the recipient of the badge with another tweet which has a link to the front-end page of the badge (where all options will be shown: how to accept, delete, .. an assertion/badge). The deleting and accepting of a badge also happens through Twitter. Liking the post will accept the badge and commenting &quot;delete&quot; or &quot;invoke&quot; in any way will delete the badge, as well as a specially constructed delete tweet. Accepting the badge can only be done by the recipient, deleting/invoking the badge can only be done by either recipient or sender.
 
 [Link of the bot](https://twitter.com/WiseBadges)
+
 [Github &amp; documentation](https://github.com/Wise-Badges/twitter-bot)
 
 ## API
@@ -86,9 +88,8 @@ Twitter Bot is built to communicate with the users of WiseBadges through Twitter
 The Badge API is built with express, node and typescript. It allows clients to make, accept and delete assertions in the context of Open Badges. It also allows the client to get data from badgeclasses, assertions and the issuer (in this API, the issuer is WiseBadges), as well as get all assertions from a certain badge class. The API also makes it possible to get a download link for a verifiable Open Badge from an assertion.
 
 [Link of the API](https://api.wisebadges.osoc.be/)
-[Github &amp; documentation](https://github.com/Wise-Badges/badge-api)
 
-#
+[Github &amp; documentation](https://github.com/Wise-Badges/badge-api)
 
 
 # THE FUTURE
