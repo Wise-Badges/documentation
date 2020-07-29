@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Wise-Badges/documentation/blob/master/data/banner.png)
+![Banner](https://raw.githubusercontent.com/Wise-Badges/documentation/master/data/banner.png)
 
 # **Bridges - WiseBadges**
 
