@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/oSoc20/bit-of-trust/master/img/banner.png)
+
 # **Bridges - WiseBadges**
 
 ## At open summer of code
