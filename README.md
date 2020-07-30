@@ -116,7 +116,7 @@ Not any bugs at the moment, if so, these will be mentioned in the Github page.
 - Make the API accept POST requests for making new badge classes
 - Add a page to the front-end to allow people to make their own badge class. This could be on the same website or could be a whole other website/project. (There could be the ability to design the images for the badge classes.)
 
-1. The community page could be expanded: either by geographical maps, graphs, …
+1. The community page could be expanded: either by geographical maps, graphs, … It would also be nice to add to the assertions the tweet / reason why someone got a badge.
 2. Now there is only a twitter bot, the ideal would be that people can issue badges through many platforms. If not already done by the open source community, there could be a facebook bot, linkedin bot, .. added.
 3. Make a (twitter/facebook/..) button available that developers can just add to their page and it gives a pop-up of issuing a badge (so kind of like the website, but in pop-up version).
 4. Possibility to save badges to _badgr_ backpack, or any other way of saving them.
