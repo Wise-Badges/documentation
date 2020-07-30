@@ -61,14 +61,6 @@ All useful links:
 
 # CREATING THE PRODUCT
 
-## LOGO ![](RackMultipart20200729-4-1u3wc3z_html_4bded4ed59dc1bf9.png)
-
-The logo of WiseBadges resembles a woman&#39;s figure. However WiseBadges is for everyone the main audience are women, we find it crucial to show this not only in the logo but in the overall look and feel of the website, the WiseBadges, and the tone of voice. ![](RackMultipart20200729-4-1u3wc3z_html_d53c5c38551e0d6c.png)
-
-## PROCESS
-
-Link to the steps of the creation process in [Figma](https://www.figma.com/file/Z0CXSEDbYkIGrhknq4Iion/Bridges-Final?node-id=138%3A161) (wireframes &amp; screen designs).
-
 ## FRONT-END
 
 The front-end of the app allows the user to send special badges to others on Twitter and is built with Vue.js. The recipient can choose to accept or deny the badges they have received. To build a sense of community, there is an overview of people who have received badges on the website.
