@@ -127,62 +127,62 @@ Not any bugs at the moment, if so, these will be mentioned in the Github page.
 
 
 **Anastasia Krouglova**
-Student ![](RackMultipart20200729-4-1u3wc3z_html_17ad25a85f44bc9c.jpg)
+Student
 
-nastyakrouglova@mail.ru
 [https://linkedin.com/in/anastasia-krouglova-3a67b91a4/](https://linkedin.com/in/anastasia-krouglova-3a67b91a4/)
 
 [https://github.com/anastasiakrouglova](https://github.com/anastasiakrouglova)
 
 [https://www.behance.net/anastasiak039f](https://www.behance.net/anastasiak039f)
 
-![](RackMultipart20200729-4-1u3wc3z_html_165b7d78c0259092.gif)
 
 **Asja Dabaut**
 Student Communications
 
-dabautasja[@gmail.com](mailto:mail@address.com)
- @asjaontheroad
+@asjaontheroad
+
 [https://www.linkedin.com/in/asja-dabaut-b72b27179/](https://www.linkedin.com/in/asja-dabaut-b72b27179/)
 
-![](RackMultipart20200729-4-1u3wc3z_html_6d1f7e48936dfac7.jpg)
 
 **Freya Van Speybroeck**
 Student
 
-freyavanspeybroeck@outlook.com
- @fvspeybr
+@fvspeybr
+
 [https://www.linkedin.com/in/freya-van-speybroeck-17ab001a7/](https://www.linkedin.com/in/freya-van-speybroeck-17ab001a7/)
+
 [https://github.com/freyavs](https://github.com/freyavs)
 
 **Sarah Van Den Berghe**
-Student ![](RackMultipart20200729-4-1u3wc3z_html_d9086f568b2ba5f0.jpg)
+Student 
 
-sarahvandenberghe@outlook.com
 [https://www.linkedin.com/in/sarahvandenberghe/](https://www.linkedin.com/in/sarahvandenberghe/)
+
 [https://github.com/SarahVanDenBerghe](https://github.com/SarahVanDenBerghe)
 
 [https://www.behance.net/sarahvandenberghe](https://www.behance.net/sarahvandenberghe)
 
 **Ward Beyens**
-Student ![](RackMultipart20200729-4-1u3wc3z_html_674feb0d96044389.png)
+Student 
 
-wardbeyens99@gmail.com
 [@WardBeyens](https://twitter.com/WardBeyens)
+
 [https://www.linkedin.com/in/wardbeyens/](https://www.linkedin.com/in/wardbeyens/)
+
 [https://github.com/wardbeyens](https://github.com/wardbeyens) ![](RackMultipart20200729-4-1u3wc3z_html_1ce0a79703f0a835.png)
 
 **Michiel Leyman**
 Coach
 
 [@MichielLeyman](https://twitter.com/michielleyman?lang=en)
+
 [https://www.linkedin.com/in/michiel-leyman/](https://www.linkedin.com/in/michiel-leyman/)
 
-![](RackMultipart20200729-4-1u3wc3z_html_df8b9b8f5ab917b7.png)
  **Bert Jehoul** Coach
- @jeborsel
-[https://www.linkedin.com/in/bertjehoul/](https://www.linkedin.com/in/bertjehoul/)
+ 
+@jeborsel
 
+[https://www.linkedin.com/in/bertjehoul/](https://www.linkedin.com/in/bertjehoul/)
 
 
 # THANKS
