@@ -121,6 +121,7 @@ Not any bugs at the moment, if so, these will be mentioned in the Github page.
 3. Make a (twitter/facebook/..) button available that developers can just add to their page and it gives a pop-up of issuing a badge (so kind of like the website, but in pop-up version).
 4. Possibility to save badges to _badgr_ backpack, or any other way of saving them.
 5. When there will be lots of badges / assertions: it would be handy if users could search for badges / assertions or an easy way to navigate through them.
+6. Front-end now only shows last 50 assertions (per badge it shows 50, and when selecting "all" it also shows 50), this should make use of the pagination of the API. So there are "next" and "previous" buttons needed to go through the assertions. This can also be integrated with (5.), a search functionality and multiple pages.
 
 
 # TEAM MEMBERS
