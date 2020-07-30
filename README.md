@@ -1,5 +1,5 @@
 
-View our Wiki documentation for more information.
+View our [https://github.com/Wise-Badges/documentation/wiki](Wiki documentation) for more information.
 
 # THANKS
 
