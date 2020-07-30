@@ -180,7 +180,7 @@ Coach
 
  **Bert Jehoul** Coach
  
-@jeborsel
+[@jeborsel](https://twitter.com/jeborsel)
 
 [https://www.linkedin.com/in/bertjehoul/](https://www.linkedin.com/in/bertjehoul/)
 
